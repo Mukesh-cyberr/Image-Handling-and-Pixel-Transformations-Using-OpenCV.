@@ -1,5 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## NAME : MUKESH RAJ D
+## REG NO : 212224100038
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
